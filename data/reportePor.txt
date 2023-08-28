@@ -1,0 +1,25 @@
+
+============REPORTE POR SEMESTRE=============
+nombre: jonathan
+apellido: camilo
+cedula: 123
+correo: joburbanop
+telefono: 456
+semetre: 5
+---------------------------------
+nombre: made
+apellido: hp
+cedula: 456
+correo: ca
+telefono: 789
+semetre: 5
+-------------------------
+
+nombre: santiago
+apellido: burbano
+cedula: 789
+correo: jo
+telefono: 456
+semetre: 3
+-------------------------
+
